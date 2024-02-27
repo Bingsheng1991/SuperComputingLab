@@ -1,4 +1,4 @@
-# Get
+# Related Info
 
 1. MIDI
    - 全称 Musical Instumental Digital Interface可以理解为一种协议，一种标准或一种技术
